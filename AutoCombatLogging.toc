@@ -1,0 +1,10 @@
+## Interface: 100002
+## Title: AutoCombatLogging
+## Author: Philouxd
+## Version: 1.0.0
+
+## SavedVariables: AutoCombatLogging
+
+config.lua
+modules\configuration-utils.lua
+init.lua
