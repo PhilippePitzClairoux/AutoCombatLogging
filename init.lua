@@ -5,9 +5,6 @@ local addonName, addon = ...
 local EventFrame = CreateFrame("Frame", "FrameEvent")
 local _G = _G
 
--- if addon is empty, create a table so we can populate it
-
-
 -- PLAYER_ENTERING_WORLD world
 EventFrame:RegisterEvent("PLAYER_ENTERING_WORLD")
 
