@@ -1,0 +1,30 @@
+commit e0f2f273c3042bf2a1de8b41ffad2395a5541e05
+Author: Philippe Pitz Clairoux <philippepitz123@gmail.com>
+Date:   Thu Jan 5 10:46:16 2023 -0500
+
+    remove useless comment
+
+commit 3d7875a963ae3058ff8faaeeda0c6de9727e2de5
+Author: Philippe Pitz Clairoux <philippepitz123@gmail.com>
+Date:   Wed Jan 4 17:58:44 2023 -0500
+
+    move logo
+
+commit 3f5d87b5617214bcc3b685d2ee8cdc3ab48caf26
+Author: Philippe Pitz Clairoux <philippepitz123@gmail.com>
+Date:   Wed Jan 4 17:57:51 2023 -0500
+
+    initial push 2.0
+
+commit 9000a88fc0f774bd45cdb03235ac990ddc7ac18a
+Author: Philippe Pitz Clairoux <philippepitz123@gmail.com>
+Date:   Wed Jan 4 17:55:12 2023 -0500
+
+    -
+
+commit 3a67b186b8e5bad69371bd8e391e8d57aec7fa65
+Author: Philippe Pitz Clairoux <43589004+PhilippePitzClairoux@users.noreply.github.com>
+Date:   Wed Jan 4 17:37:52 2023 -0500
+
+    Initial commit
+
